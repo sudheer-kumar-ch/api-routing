@@ -8,7 +8,7 @@ app.get("/", (request, response) => {
 
 //API2
 app.get("/about", (request, response) => {
-  response.send("About Page");
+  response.send("About page");
 });
 
 
